@@ -65,7 +65,7 @@ writing, that's Node v16.15.1
 Run the following command on your local environment:
 
 ``` bash
-git clone --depth=1 https://github.com/ixartz/Astro-boilerplate
+git clone --depth=1 https://github.com/jabedabedo/belajar-astro
 cd my-project-name
 npm install
 ```
