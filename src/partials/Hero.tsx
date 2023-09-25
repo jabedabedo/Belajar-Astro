@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Jabar</GradientText> 👋
+          Hi there, I'm <GradientText>SJabar</GradientText> 👋
         </>
       }
       description={
